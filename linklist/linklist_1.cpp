@@ -15,7 +15,6 @@ node* create_node(int value){
     node* n1= new node(value); //used for object creation
     return n1;
 
-
 }
 int main(){
     int value;
